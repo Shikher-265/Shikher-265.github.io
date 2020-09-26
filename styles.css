@@ -1,0 +1,238 @@
+
+h1{
+  font-size: 50px;
+}
+#title{
+  background-color: black;
+  padding-bottom: 150px;
+  background-image: url('images/titlebg2.jpg');
+  background-size: 100% 100%;
+}
+.containers-fluid{
+  color: white;
+  text-align: center;
+  background-color: #1d2323;
+  opacity: 0.5;
+  font-size: 20px;
+}
+.navbar-brand{
+  font-size: 30px;
+  background-color: transparent;
+  color:white;
+  padding: 0;
+  margin: 0;
+font-family: 'Pacifico', cursive;
+}
+.navbar-brand:hover{
+  color: #ff5722;
+}
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+.nav-link{
+  font-size: 30px;
+  background-color: transparent;
+  color:white;
+  text-align: center;
+  margin: 15px;
+  font-family: 'Sacramento', cursive;
+}
+.nav-link:hover{
+  color: #ff5722;
+}
+.profile{
+  position: relative;
+  top: 100px;
+  left: 50%;
+  margin-left: -100px;
+  border-radius: 50%;
+}
+
+#intro{
+  margin:auto 70px auto 70px  ;
+  padding-top: 100px ;
+  padding-bottom: 50px;
+  font-style: normal;
+  color: white;
+  /* background-color: #fcf9f4; */
+  /* background-image: url('images/titlebg.jpg');
+  background-size: 100%; */
+  text-align: center;
+  border-radius: 0.5%;
+}
+.introt{
+  font-size: 100px;
+  margin: 0;
+  font-family: 'Permanent Marker', cursive;
+}
+.introt2{
+  font-size: 30px;
+  font-family: 'Dancing Script', cursive;
+}
+
+#About{
+  padding: 90px;
+
+  background-color: #f0f0f0;
+  text-align: center;
+}
+.profile2{
+border-radius: 2%;
+/* position: fixed; */
+}
+.intp{
+  margin: 5px auto 20px;
+  padding-left: 30px;
+}
+.intrest{
+  margin: 50px auto 50px;
+  padding-left: 30px;
+}
+
+#Skillsborder{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: black;
+  text-align: center;
+  color: white;
+  background-image: url(images/titlebg.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#Skills{
+  margin: 40px;
+   background-color: rgba(0,0,0, 0.5);
+  /* background-color:#c2f0fc;
+  background-color: transparent; */
+  text-align: center;
+  padding: 100px;
+  color: white;
+
+}
+.col{
+  padding: 0;
+}
+.intimg{
+  margin: 30px;
+}
+.btn{
+  margin: 50px auto auto auto;
+}
+
+
+
+#Projects{
+  padding: 50px 70px 70px 70px;
+  text-align: center;
+  background-color: #0881a3;
+  background-image: url(images/white-walls-1764702.jpg);
+  background-size: 100% 100%;
+}
+.prtitle{
+  margin-bottom: 40px;
+  color: #f0f0f0;
+  font-size: 60px;
+}
+.card-deck{
+margin: 20px 70px 50px;
+}
+.card{
+  margin: 50px;
+  padding-bottom: 70px;
+
+}
+
+#Contact{
+  background-color: black;
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 20px;
+  background-image: url(images/introbg.jpg);
+  background-size: 100% 100%;
+}
+.Con{
+  margin: 10px;
+  padding-bottom: 15px;
+    font-family: 'Pacifico', cursive;
+    color: #1f4068;
+}
+.conlogo{
+  color: #1f4068;
+  margin: 10px;
+  padding-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+/* This is for styling skills.html page */
+/*.sk{
+  margin: 0;
+  background-color: #0f0f0f;
+}
+#headersk{
+  background-color: #333;
+  overflow: hidden;
+  text-align: left;
+  margin: 0;
+  padding: 10px 40px 10px 40px;
+}
+.headingsk{
+  margin: 0;
+  font-size: 30px;
+  font-family: 'Sacramento', cursive;
+  color: black;
+}
+.headingskl:hover{
+  color: white;
+}
+#listsk{
+  background-color: white;
+  padding: 10px 50px;
+  margin: 5% 14.5%;
+}
+.parask{
+  padding: 10px 20px;
+  font-size: 20px;
+}
+.subheadsk{
+  text-align: center;
+  margin: 0 20px 50px;
+}
+.progress{
+  margin: 0 70px 0 20px;
+}
+.progress-bar{
+  color: black;
+}
+.pull-right{
+  float: right;
+  margin-right:70px;
+  font-size: 20px;
+}
+.subheadsk2{
+  text-align: center;
+  margin: 20px 20px 10px;
+}
+.techsk{
+  margin-bottom: 30px;
+}
+.parask2{
+  margin: 5px 50px;
+  font-size: 15px;
+}
+h6{
+  padding: 10px 20px 0;
+  font-size: 20px;
+}
+*/
